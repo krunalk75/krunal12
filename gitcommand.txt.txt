@@ -1,0 +1,8 @@
+these are git commands.
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/krunalk75/krunal12.git
+git push -u origin main
